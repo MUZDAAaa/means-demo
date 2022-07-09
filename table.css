@@ -1,0 +1,17 @@
+.ais{
+ background-color: brown;   
+ text-align: center;
+}
+table{
+    background-size: contain;
+
+}
+body{
+    background-color: gray;
+    background-size: cover;;
+}
+#daa{
+    background-color: aqua;
+    background-size: cover;
+    margin: right 10px; 
+}
